@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
+ Hi there 👋
 
 - 🔭 I’m currently working on spring Boot web application 
 - 🌱 I’m currently learning Data structures and Algorithms 
